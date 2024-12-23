@@ -1,0 +1,14 @@
+C:\Users\acer\source\repos\StudintMG\StudintMG\bin\Debug\net8.0\StudintMG.exe
+C:\Users\acer\source\repos\StudintMG\StudintMG\bin\Debug\net8.0\StudintMG.deps.json
+C:\Users\acer\source\repos\StudintMG\StudintMG\bin\Debug\net8.0\StudintMG.runtimeconfig.json
+C:\Users\acer\source\repos\StudintMG\StudintMG\bin\Debug\net8.0\StudintMG.dll
+C:\Users\acer\source\repos\StudintMG\StudintMG\bin\Debug\net8.0\StudintMG.pdb
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\StudintMG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\StudintMG.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\StudintMG.AssemblyInfo.cs
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\StudintMG.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\StudintMG.dll
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\refint\StudintMG.dll
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\StudintMG.pdb
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\StudintMG.genruntimeconfig.cache
+C:\Users\acer\source\repos\StudintMG\StudintMG\obj\Debug\net8.0\ref\StudintMG.dll
